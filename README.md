@@ -56,11 +56,13 @@ Desarrollar un sistema de seguridad vehicular inteligente capaz de reducir el ri
 
 ---
 
-##  Autor
+##  Autores
 
-Marco A. González Fernández  
-Proyecto académico – Sistemas Embebidos Avanzados  
-Tecnológico de Monterrey
+Marco A. González Fernández 
+Mario A. Perez Barrera
+Marisol S. Ramirez Herrera
+B&W Soluciones Integrales SA de CV (Academico)
+Sistemas Embebidos Avanzados  
 
 ---
 
