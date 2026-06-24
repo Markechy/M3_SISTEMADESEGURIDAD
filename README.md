@@ -1,4 +1,4 @@
-# 🔐 Lock-On - Sistema Antirrobo para Vehículos
+#  Lock-On - Sistema Antirrobo para Vehículos
 
 Lock-On es un sistema de seguridad vehicular basado en visión computacional, sistemas embebidos y desarrollo multiplataforma, diseñado para la detección y verificación de conductores autorizados en tiempo real. El sistema utiliza reconocimiento facial para identificar usuarios registrados y generar alertas automáticas en caso de detectar posibles intrusos.
 
@@ -6,7 +6,7 @@ Este proyecto integra hardware (Raspberry Pi), backend en PHP, procesamiento en 
 
 ---
 
-## 📌 Características principales
+##  Características principales
 
 - Reconocimiento facial en tiempo real
 - Detección de conductores autorizados y sospechosos
@@ -18,7 +18,7 @@ Este proyecto integra hardware (Raspberry Pi), backend en PHP, procesamiento en 
 
 ---
 
-## 🧠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python (visión computacional y reconocimiento facial)
 - PHP (conexión con base de datos y backend)
@@ -30,7 +30,7 @@ Este proyecto integra hardware (Raspberry Pi), backend en PHP, procesamiento en 
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 El repositorio está organizado en tres carpetas principales:
 
@@ -40,7 +40,7 @@ El repositorio está organizado en tres carpetas principales:
 
 ---
 
-## ⚙️ Funcionamiento general
+##  Funcionamiento general
 
 1. El sistema captura imágenes del conductor mediante una cámara conectada a Raspberry Pi.
 2. Python procesa las imágenes y ejecuta el reconocimiento facial.
@@ -50,13 +50,13 @@ El repositorio está organizado en tres carpetas principales:
 
 ---
 
-## 🚀 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Desarrollar un sistema de seguridad vehicular inteligente capaz de reducir el riesgo de robo mediante visión computacional, automatización y monitoreo remoto en tiempo real.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Marco A. González Fernández  
 Proyecto académico – Sistemas Embebidos Avanzados  
