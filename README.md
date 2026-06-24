@@ -58,10 +58,10 @@ Desarrollar un sistema de seguridad vehicular inteligente capaz de reducir el ri
 
 ##  Autores
 
-Marco A. González Fernández, 
-Mario A. Perez Barrera, 
-Marisol S. Ramirez Herrera, 
-B&W Soluciones Integrales SA de CV (Academico)
+Marco A. González Fernández  
+Mario A. Perez Barrera  
+Marisol S. Ramirez Herrera  
+B&W Soluciones Integrales SA de CV (Academico)  
 Sistemas Embebidos Avanzados  
 
 ---
